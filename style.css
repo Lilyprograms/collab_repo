@@ -6,3 +6,26 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+.web_bg {
+    background-image: url(image/background2.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    width: 80%;
+    padding-top: 2%;
+}
+.bg_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.Shittu_ctn {
+    display: flex;
+    justify-content: center;
+}
+.h_three {
+    font-family: Arial, Helvetica, sans-serif;
+}
