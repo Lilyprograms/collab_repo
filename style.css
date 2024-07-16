@@ -6,3 +6,26 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+.chinazom_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-between;
+    width: 50%;
+    height: 400px;
+    background-color: white;
+}
+.chinazom_section img{
+    height: 100px;
+    width: 100px;
+}
+.chinazom_section1{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f19ed2;
+}
