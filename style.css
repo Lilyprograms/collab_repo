@@ -55,3 +55,37 @@ body {
 }
 .sec9{background-image: url(./images/kiddies.webp); height: 600px;background-size: cover; display: flex;}
 .h{font-size: 90px; padding: 20px; text-align: center;}
+.lydia {
+    text-align: center;
+    padding: 30px;
+    background-color: lightgray;
+}
+.lydia h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.lydia p {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 1.7;
+}
+.lydia_btn {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.lydia_btn button{
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.lydia_btn1 {
+    background: black;
+    color: white;
+    border: 1px solid black;
+}
+.lydia_btn2 {
+    border: 1px solid black;
+    color: black;
+    background: none;
+}
