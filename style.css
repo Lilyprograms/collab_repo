@@ -189,3 +189,20 @@ table{
     max-width: 30%;
     height: auto;
 }
+
+.section_one{
+    background: yellowgreen;
+    color:black;
+    display:flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+}
+
+.nav_right ul{
+    display: flex;
+    gap:15px;
+    list-style: none;
+    cursor: pointer;
+    
+}
