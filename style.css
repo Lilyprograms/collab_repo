@@ -53,3 +53,5 @@ body {
     background-color: lightgrey;
     padding: 60px 0 0;
 }
+.sec9{background-image: url(./images/kiddies.webp); height: 600px;background-size: cover; display: flex;}
+.h{font-size: 90px; padding: 20px; text-align: center;}
