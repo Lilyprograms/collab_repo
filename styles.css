@@ -1,0 +1,149 @@
+.image-container{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-img{
+    height: 1115px;
+    width: 100%;
+    background-repeat: no-repeat;
+   background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0;}
+
+.we{
+
+    background-color: black;
+}    
+
+.btn{
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    padding: 10px 30px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 40px;
+    margin-left: 80%;
+    position: relative;
+    top: 17px;
+}
+.tech{
+
+    background-color: black;
+    margin: -115px;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-bottom: auto;
+
+}
+.kam{
+    padding-left: 89px;
+    padding-right: 215px;
+}
+.nam{
+    padding-left: 89px;
+    display: flex;
+}
+
+.btnt{
+
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    padding: 10px 30px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 40px;
+    margin-left: 40%;
+    position: relative;
+    top: 17px;
+
+}
+.can{
+    font-weight: 900;
+    margin-left: 35%;
+}
+
+.footer{
+
+    background-color: black;
+   min-height: 119px;
+   padding: 5px;
+}
+
+
+.flex{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.copy{
+    color: white;}
+.fan{ padding-left: 304px;
+}
+
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.phone-input {
+    display: flex;
+}
+
+#phone_country_code {
+    width: 20%;
+    margin-right: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+textarea {
+    resize: vertical; /* Allow vertical resizing */
+}
